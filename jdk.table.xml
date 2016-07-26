@@ -1,183 +1,59 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.4.3 virtualenv at ~/pycharm-venv" />
+      <name value="Python 3.4.3 virtualenv at ~/JupyterVirtualEnv" />
       <type value="Python SDK" />
       <version value="Python 3.4.3" />
-      <homePath value="$USER_HOME$/pycharm-venv/bin/python" />
+      <homePath value="$USER_HOME$/JupyterVirtualEnv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/GeoAlchemy2-0.3.0-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/Shapely-1.5.15-py3.4.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/passlib-1.6.5-py3.4.egg!/" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/ConcurrentLogHandler-0.9.1-py3.4.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/alembic-0.8.6-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/logstash_formatter-0.5.15-py3.4.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/protobuf-3.0.0b1.post2-py3.4.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/coverage-4.1-py3.4-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/numpy-1.11.0-py3.4-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/nose-1.3.7-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/psycopg2-2.6.1-py3.4-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/simplejson-3.8.2-py3.4-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/waitress-0.9.0-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/zope.sqlalchemy-0.7.6-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/transaction-1.6.0-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/SQLAlchemy-1.0.13-py3.4-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/pyramid_redis-0.1.4-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/pyramid_mailer-0.14.1-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/pyramid_exclog-0.7-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/pyramid_tm-0.12.1-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/pyramid_debugtoolbar-3.0.1-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/pyramid_chameleon-0.3-py3.4.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/python_editor-1.0-py3.4.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/Mako-1.0.4-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/six-1.10.0-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/zope.interface-4.1.3-py3.4-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/zope.component-4.2.2-py3.4.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/redis-2.10.5-py3.4.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/repoze.sendmail-4.2-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/Pygments-2.1.3-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/repoze.lru-0.6-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/pyramid_mako-1.0.2-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/Chameleon-2.24-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/PasteDeploy-1.5.2-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/translationstring-1.3-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/venusian-1.0-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/zope.deprecation-4.1.2-py3.4.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/WebOb-1.6.1-py3.4.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/MarkupSafe-0.23-py3.4-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/zope.event-4.2.0-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/pyramid-1.7-py3.4.egg" />
-            <root type="simple" url="file://$USER_HOME$/Dropbox (mO2tion)/Projects/rest-server/simpleapi" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages/motosumo-0.0.1-py3.4.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/lib-dynload" />
-            <root type="simple" url="file:///usr/lib/python3.4" />
-            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-venv/lib/python3.4/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-2101102838" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.4.3 (/usr/bin/python3.4)" />
-      <type value="Python SDK" />
-      <version value="Python 3.4.3" />
-      <homePath value="/usr/bin/python3.4" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file:///usr/local/lib/python3.4/dist-packages/six-1.10.0-py3.4.egg" />
-            <root type="simple" url="jar:///usr/local/lib/python3.4/dist-packages/python3_protobuf-2.5.0-py3.4.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/motosumo-0.0.1-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/GeoAlchemy2-0.3.0-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/Shapely-1.5.16-py3.4.egg" />
+            <root type="simple" url="jar://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/passlib-1.6.5-py3.4.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/ConcurrentLogHandler-0.9.1-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/alembic-0.8.6-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/logstash_formatter-0.5.15-py3.4.egg" />
+            <root type="simple" url="jar://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/protobuf-3.0.0b1.post2-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/coverage-4.2b1-py3.4-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/nose-1.3.7-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/psycopg2-2.6.2-py3.4-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/simplejson-3.8.2-py3.4-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/waitress-1.0a2-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/zope.sqlalchemy-0.7.7-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/transaction-1.6.1-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/SQLAlchemy-1.1.0b2-py3.4-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/pyramid_redis-0.1.4-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/pyramid_mailer-0.14.1-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/pyramid_exclog-0.7-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/pyramid_tm-0.12.1-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/pyramid_debugtoolbar-3.0.2-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/pyramid_chameleon-0.3-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/pyramid-1.7-py3.4.egg" />
+            <root type="simple" url="jar://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/python_editor-1.0.1-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/Mako-1.0.4-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/six-1.10.0-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/zope.interface-4.2.0-py3.4-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/zope.component-4.2.2-py3.4.egg" />
+            <root type="simple" url="jar://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/redis-2.10.5-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/repoze.sendmail-4.2-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/Pygments-2.1.3-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/repoze.lru-0.6-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/pyramid_mako-1.0.2-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/Chameleon-2.24-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/PasteDeploy-1.5.2-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/translationstring-1.3-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/venusian-1.0-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/zope.deprecation-4.1.2-py3.4.egg" />
+            <root type="simple" url="jar://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/WebOb-1.6.1-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/MarkupSafe-0.23-py3.4-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages/zope.event-4.2.0-py3.4.egg" />
             <root type="simple" url="file:///usr/lib/python3.4" />
             <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
             <root type="simple" url="file:///usr/lib/python3.4/lib-dynload" />
-            <root type="simple" url="file:///usr/local/lib/python3.4/dist-packages" />
-            <root type="simple" url="file:///usr/lib/python3/dist-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1247971765" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.5.1+ virtualenv at ~/pycharm-35venv" />
-      <type value="Python SDK" />
-      <version value="Python 3.5.1+" />
-      <homePath value="$USER_HOME$/pycharm-35venv/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/pip-7.1.0-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/bcrypt-3.1.0-py3.5-linux-x86_64.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/python_dateutil-2.5.3-py3.5.egg!/" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/motosumo-0.0.1-py3.5.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/GeoAlchemy2-0.3.0-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/Shapely-1.5.16-py3.5.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/passlib-1.6.5-py3.5.egg!/" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/ConcurrentLogHandler-0.9.1-py3.5.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/alembic-0.8.6-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/logstash_formatter-0.5.15-py3.5.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/protobuf-3.0.0b1.post2-py3.5.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/coverage-4.2b1-py3.5-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/numpy-1.11.1-py3.5-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/nose-1.3.7-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/psycopg2-2.6.2-py3.5-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/simplejson-3.8.2-py3.5-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/waitress-1.0a2-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/zope.sqlalchemy-0.7.7-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/transaction-1.6.1-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/SQLAlchemy-1.1.0b2-py3.5-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/pyramid_redis-0.1.4-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/pyramid_mailer-0.14.1-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/pyramid_exclog-0.7-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/pyramid_tm-0.12.1-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/pyramid_debugtoolbar-3.0.2-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/pyramid_chameleon-0.3-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/pyramid-1.7-py3.5.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/python_editor-1.0.1-py3.5.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/Mako-1.0.4-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/six-1.10.0-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/zope.interface-4.2.0-py3.5-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/zope.component-4.2.2-py3.5.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/redis-2.10.5-py3.5.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/repoze.sendmail-4.2-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/Pygments-2.1.3-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/repoze.lru-0.6-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/pyramid_mako-1.0.2-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/Chameleon-2.24-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/PasteDeploy-1.5.2-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/translationstring-1.3-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/venusian-1.0-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/zope.deprecation-4.1.2-py3.5.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/WebOb-1.6.1-py3.5.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/MarkupSafe-0.23-py3.5-linux-x86_64.egg" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/zope.event-4.2.0-py3.5.egg" />
-            <root type="simple" url="file://$USER_HOME$/Dropbox (mO2tion)/Projects/rest-server/simpleapi" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/cffi-1.7.0-py3.5-linux-x86_64.egg" />
-            <root type="simple" url="jar://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages/pycparser-2.14-py3.5.egg!/" />
-            <root type="simple" url="file:///usr/lib/python3.5" />
-            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file:///usr/lib/python3.5/lib-dynload" />
-            <root type="simple" url="file://$USER_HOME$/pycharm-35venv/lib/python3.5/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-600693528" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.5.1+ (/usr/bin/python3.5)" />
-      <type value="Python SDK" />
-      <version value="Python 3.5.1+" />
-      <homePath value="/usr/bin/python3.5" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file:///usr/lib/python3.5" />
-            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file:///usr/lib/python3.5/lib-dynload" />
-            <root type="simple" url="file://$USER_HOME$/.local/lib/python3.5/site-packages" />
-            <root type="simple" url="file:///usr/local/lib/python3.5/dist-packages" />
-            <root type="simple" url="file:///usr/lib/python3/dist-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1247971764" />
+            <root type="simple" url="file://$USER_HOME$/JupyterVirtualEnv/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-766497904" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
