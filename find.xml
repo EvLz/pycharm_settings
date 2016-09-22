@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[rest-server] - .../simpleapi/motosumoadmin/templates/user_session.pt'" />
-    <option name="defaultScopeName" value="File '[rest-server] - .../simpleapi/motosumoadmin/templates/user_session.pt'" />
-    <option name="SEARCH_SCOPE" value="File '[rest-server] - .../simpleapi/motosumoadmin/templates/user_session.pt'" />
+    <option name="customScope" value="File '[rest-server] - .../simpleapi/motosumoadmin/views/user_views.py'" />
+    <option name="defaultScopeName" value="File '[rest-server] - .../simpleapi/motosumoadmin/views/user_views.py'" />
+    <option name="SEARCH_SCOPE" value="File '[rest-server] - .../simpleapi/motosumoadmin/views/user_views.py'" />
   </component>
 </application>
